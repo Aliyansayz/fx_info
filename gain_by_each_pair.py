@@ -1,3 +1,87 @@
+
+
+________________________________________________________________________________________________________________________________________________
+NZDCAD
+0:	learn: 37.9664170	total: 263ms	remaining: 1.58s
+6:	learn: 25.3509750	total: 1.77s	remaining: 0us
+Mean Squared Error: 1100.6479962972116
+saved successfully
+MAY
+NZDCAD  Starting date : 2024-05-01 
+[1, 1, '+1-1', 1, -1, 1, -1, '+1-1', '-1+1', '-1+1', 1, '-1+1', -1, '+1-1', 1, '-1+1', -1, '-1+1', '-1+1', '-1+1', -1, 1]
+Sharpe Ratio: 0.11
+Pips On Profit Side was :  257.6999999999996
+Pips On Loss Side was :  187.80000000000132
+accuracy by days 54.54545454545454
+accuracy_by_net_gains  57.845117845117635
+net profit  69.89999999999827
+
+accuracy by net gains on previous test data  58.38027062809956
+accuracy on all test points excluding last 22 points  51.33689839572193
+APRIL
+NZDCAD  Starting date : 2024-04-01 
+[1, '-1+1', '-1+1', 1, 1, 1, -1, 1, '+1-1', -1, '+1-1', 1, '+1-1', '+1-1', '-1+1', '+1-1', 1, '+1-1', '+1-1', 1, '+1-1', 1]
+Sharpe Ratio: 0.14
+Pips On Profit Side was :  332.50000000000114
+Pips On Loss Side was :  243.50000000000202
+accuracy by days 50.0
+accuracy_by_net_gains  57.72569444444432
+net profit  88.99999999999912
+
+accuracy by net gains on previous test data  58.477437311548094
+accuracy on all test points excluding last 22 points  51.515151515151516
+MARCH
+NZDCAD  Starting date : 2024-02-29 
+['-1+1', -1, 1, '-1+1', 1, '-1+1', '+1-1', '+1-1', '+1-1', 1, -1, '+1-1', '+1-1', -1, '+1-1', -1, '-1+1', -1, -1, -1, '-1+1', -1]
+Sharpe Ratio: 0.14
+Pips On Profit Side was :  210.8000000000021
+Pips On Loss Side was :  141.90000000000146
+accuracy by days 50.0
+accuracy_by_net_gains  59.7675077969946
+net profit  68.90000000000063
+
+accuracy by net gains on previous test data  58.34845220546547
+accuracy on all test points excluding last 22 points  51.74825174825175
+Iterations:  7
+Learning rate:  0.68
+Depth:  11
+FEB
+NZDCAD  Starting date : 2024-01-30 
+[-1, 1, '+1-1', '-1+1', '-1+1', 1, '+1-1', 1, '+1-1', -1, '-1+1', -1, '-1+1', 1, 1, '-1+1', '-1+1', 1, '+1-1', '-1+1', -1, '+1-1']
+Sharpe Ratio: -0.03
+Pips On Profit Side was :  280.10000000000093
+Pips On Loss Side was :  301.5999999999996
+accuracy by days 45.45454545454545
+accuracy_by_net_gains  48.15196836857499
+net profit  -21.499999999998693
+
+accuracy by net gains on previous test data  60.36185885467938
+accuracy on all test points excluding last 22 points  52.892561983471076
+JAN
+NZDCAD  Starting date : 2023-12-28 
+['+1-1', -1, '-1+1', '+1-1', 1, 1, '-1+1', '+1-1', 1, 1, -1, '+1-1', -1, -1, -1, '+1-1', '-1+1', '-1+1', -1, -1, '-1+1', -1]
+Sharpe Ratio: 0.08
+Pips On Profit Side was :  292.40000000000265
+Pips On Loss Side was :  244.70000000000323
+accuracy by days 54.54545454545454
+accuracy_by_net_gains  54.44051387078746
+net profit  47.69999999999942
+
+accuracy by net gains on previous test data  61.682165393556986
+accuracy on all test points excluding last 22 points  52.52525252525253
+DEC
+NZDCAD  Starting date : 2023-11-27 
+[1, 1, '+1-1', '-1+1', -1, -1, '-1+1', '-1+1', -1, '-1+1', '-1+1', -1, -1, '-1+1', '-1+1', -1, '-1+1', -1, '-1+1', 1, 1]
+Sharpe Ratio: 0.11
+Pips On Profit Side was :  278.1000000000011
+Pips On Loss Side was :  212.40000000000038
+accuracy by days 50.0
+accuracy_by_net_gains  56.69724770642207
+net profit  65.70000000000073
+
+accuracy by net gains on previous test data  62.956784653078266
+accuracy on all test points excluding last 22 points  53.246753246753244
+
 ________________________________________________________________________________________________________________________________________________
 
 CADJPY
