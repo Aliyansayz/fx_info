@@ -1,4 +1,88 @@
 ________________________________________________________________________________________________________________________________________________
+
+CADJPY
+0:	learn: 59.1260778	total: 251ms	remaining: 1.51s
+6:	learn: 47.3032145	total: 1.29s	remaining: 0us
+Mean Squared Error: 2997.421319664688
+saved successfully
+MAY
+CADJPY  Starting date : 2024-05-01 
+['+1-1', -1, 1, '-1+1', 1, 1, '-1+1', 1, 1, -1, 1, '-1+1', '-1+1', -1, '-1+1', '+1-1', '-1+1', '-1+1', '-1+1', -1, -1, '-1+1']
+Sharpe Ratio: 0.18
+Pips On Profit Side was :  481.4999999999998
+Pips On Loss Side was :  320.0000000000003
+accuracy by days 50.0
+accuracy_by_net_gains  60.07485963817839
+net profit  161.4999999999995
+
+accuracy by net gains on previous test data  58.49667720498098
+accuracy on all test points excluding last 22 points  54.54545454545454
+APRIL
+CADJPY  Starting date : 2024-04-01 
+[-1, 1, '+1-1', -1, '-1+1', '+1-1', 1, '-1+1', '+1-1', 1, '+1-1', '-1+1', '-1+1', 1, '-1+1', 1, 1, '-1+1', '-1+1', -1, 1, -1]
+Sharpe Ratio: 0.01
+Pips On Profit Side was :  526.1000000000024
+Pips On Loss Side was :  506.0000000000002
+accuracy by days 50.0
+accuracy_by_net_gains  50.973742854374684
+net profit  20.100000000002183
+
+accuracy by net gains on previous test data  59.65254413910144
+accuracy on all test points excluding last 22 points  55.15151515151515
+MARCH
+CADJPY  Starting date : 2024-02-29 
+[1, '-1+1', -1, '-1+1', -1, -1, 1, 1, 1, -1, '-1+1', 1, '-1+1', 1, '+1-1', '+1-1', '-1+1', 1, '+1-1', 1, '+1-1', '+1-1']
+Sharpe Ratio: 0.17
+Pips On Profit Side was :  461.40000000000185
+Pips On Loss Side was :  286.2000000000023
+accuracy by days 54.54545454545454
+accuracy_by_net_gains  61.71749598715881
+net profit  175.19999999999953
+
+accuracy by net gains on previous test data  59.39394954604844
+accuracy on all test points excluding last 22 points  55.24475524475524
+Iterations:  7
+Learning rate:  0.38
+Depth:  9
+FEB
+CADJPY  Starting date : 2024-01-30 
+['+1-1', '-1+1', 1, '+1-1', '+1-1', 1, 1, '+1-1', 1, '-1+1', 1, '-1+1', -1, '+1-1', '+1-1', '-1+1', 1, -1, '-1+1', -1, '+1-1', -1]
+Sharpe Ratio: 0.10
+Pips On Profit Side was :  383.9000000000013
+Pips On Loss Side was :  300.79999999999814
+accuracy by days 45.45454545454545
+accuracy_by_net_gains  56.06835110267294
+net profit  83.10000000000315
+
+accuracy by net gains on previous test data  59.82479044861966
+accuracy on all test points excluding last 22 points  57.02479338842975
+JAN
+CADJPY  Starting date : 2023-12-29 
+['-1+1', 1, '-1+1', 1, '+1-1', -1, '+1-1', 1, -1, -1, 1, 1, 1, 1, 1, '+1-1', 1, '+1-1', 1, 1, -1, 1]
+Sharpe Ratio: 0.41
+Pips On Profit Side was :  711.4000000000019
+Pips On Loss Side was :  260.10000000000133
+accuracy by days 72.72727272727273
+accuracy_by_net_gains  73.22696860524958
+net profit  451.3000000000006
+
+accuracy by net gains on previous test data  56.80637982195841
+accuracy on all test points excluding last 22 points  53.535353535353536
+DEC
+CADJPY  Starting date : 2023-11-29 
+[1, '+1-1', -1, -1, '-1+1', -1, 1, 1, -1, '+1-1', 1, 1, '-1+1', '-1+1', -1, '+1-1', 1, '+1-1', 1, -1, -1, '+1-1']
+Sharpe Ratio: 0.27
+Pips On Profit Side was :  917.7000000000035
+Pips On Loss Side was :  454.1000000000025
+accuracy by days 63.63636363636363
+accuracy_by_net_gains  66.89750692520771
+net profit  463.60000000000093
+
+accuracy by net gains on previous test data  52.10075464001627
+accuracy on all test points excluding last 22 points  50.649350649350644
+
+
+________________________________________________________________________________________________________________________________________________
 EURCHF
 0:	learn: 34.6937300	total: 35.8ms	remaining: 681ms
 19:	learn: 29.1529652	total: 533ms	remaining: 0us
