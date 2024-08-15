@@ -1,5 +1,421 @@
+________________________________________________________________________________________________________________________________________________
+
 
 ________________________________________________________________________________________________________________________________________________
+
+
+EURGBP
+0:	learn: 34.9382172	total: 130ms	remaining: 1.69s
+13:	learn: 27.8902991	total: 1.3s	remaining: 0us
+Mean Squared Error: 360.29454127034234
+saved successfully
+MAY
+EURGBP  Starting date : 2024-05-01 
+[1, 1, '+1-1', 1, 1, 1, '+1-1', -1, 1, '+1-1', '+1-1', '+1-1', -1, '+1-1', -1, 1, '+1-1', '+1-1', 1, '+1-1', 1, 1]
+Sharpe Ratio: 0.24
+Pips On Profit Side was :  136.29999999999922
+Pips On Loss Side was :  72.89999999999908
+accuracy by days 59.09090909090909
+accuracy_by_net_gains  65.15296367112828
+net profit  63.400000000000134
+
+accuracy by net gains on previous test data  59.498091740476724
+accuracy on all test points excluding last 22 points  55.080213903743314
+APRIL
+EURGBP  Starting date : 2024-04-01 
+[1, 1, 1, 1, '-1+1', -1, 1, '+1-1', 1, '+1-1', 1, 1, '+1-1', 1, '-1+1', -1, '+1-1', '+1-1', -1, -1, '-1+1', 1]
+Sharpe Ratio: 0.32
+Pips On Profit Side was :  211.50000000000003
+Pips On Loss Side was :  89.60000000000079
+accuracy by days 63.63636363636363
+accuracy_by_net_gains  70.2424443706408
+net profit  121.89999999999924
+
+accuracy by net gains on previous test data  58.191656907482994
+accuracy on all test points excluding last 22 points  53.939393939393945
+MARCH
+EURGBP  Starting date : 2024-02-29 
+[1, '+1-1', -1, 1, '+1-1', '+1-1', 1, 1, 1, '+1-1', 1, '+1-1', 1, 1, 1, '+1-1', '+1-1', 1, '+1-1', -1, '+1-1', 1]
+Sharpe Ratio: 0.15
+Pips On Profit Side was :  169.00000000000136
+Pips On Loss Side was :  113.9000000000001
+accuracy by days 59.09090909090909
+accuracy_by_net_gains  59.7384234711914
+net profit  55.10000000000126
+
+accuracy by net gains on previous test data  57.992158293061024
+accuracy on all test points excluding last 22 points  53.14685314685315
+Iterations:  14
+Learning rate:  0.18
+Depth:  9
+FEB
+EURGBP  Starting date : 2024-01-30 
+[-1, 1, 1, '-1+1', '+1-1', '+1-1', 1, '+1-1', '+1-1', -1, 1, 1, 1, 1, 1, '+1-1', '+1-1', -1, 1, -1, 1, -1]
+Sharpe Ratio: 0.21
+Pips On Profit Side was :  165.60000000000127
+Pips On Loss Side was :  94.7000000000009
+accuracy by days 68.18181818181817
+accuracy_by_net_gains  63.61890126776791
+net profit  70.90000000000038
+
+accuracy by net gains on previous test data  57.23449381821947
+accuracy on all test points excluding last 22 points  50.413223140495866
+JAN
+EURGBP  Starting date : 2023-12-28 
+['+1-1', '-1+1', -1, 1, -1, '+1-1', 1, 1, '+1-1', -1, 1, 1, -1, -1, '-1+1', '+1-1', '+1-1', '+1-1', '+1-1', 1, -1, 1]
+Sharpe Ratio: 0.31
+Pips On Profit Side was :  228.2999999999991
+Pips On Loss Side was :  109.00000000000131
+accuracy by days 59.09090909090909
+accuracy_by_net_gains  67.68455380966464
+net profit  119.2999999999978
+
+accuracy by net gains on previous test data  55.02569244266208
+accuracy on all test points excluding last 22 points  48.484848484848484
+DEC
+EURGBP  Starting date : 2023-11-27 
+['+1-1', -1, '+1-1', -1, 1, '+1-1', -1, 1, 1, '+1-1', '-1+1', 1, '+1-1', -1, 1, '+1-1', '-1+1', 1, '+1-1', '-1+1', '+1-1', 1]
+Sharpe Ratio: 0.23
+Pips On Profit Side was :  227.80000000000132
+Pips On Loss Side was :  120.49999999999784
+accuracy by days 50.0
+accuracy_by_net_gains  65.40338788400858
+net profit  107.30000000000348
+
+accuracy by net gains on previous test data  52.12825651302602
+accuracy on all test points excluding last 22 points  48.05194805194805
+
+________________________________________________________________________________________________________________________________________________
+NZDCHF
+0:	learn: 32.6854147	total: 36.7ms	remaining: 770ms
+21:	learn: 14.5434326	total: 484ms	remaining: 0us
+Mean Squared Error: 846.6401106937412
+saved successfully
+MAY
+NZDCHF  Starting date : 2024-05-01 
+[1, 1, 1, '-1+1', '-1+1', '-1+1', '+1-1', 1, 1, 1, '-1+1', '-1+1', -1, -1, '-1+1', -1, '-1+1', 1, -1, '+1-1', -1, 1]
+Sharpe Ratio: 0.09
+Pips On Profit Side was :  208.49999999999923
+Pips On Loss Side was :  162.4999999999999
+accuracy by days 59.09090909090909
+accuracy_by_net_gains  56.19946091644198
+net profit  45.999999999999346
+
+accuracy by net gains on previous test data  59.67405289492499
+accuracy on all test points excluding last 22 points  54.54545454545454
+APRIL
+NZDCHF  Starting date : 2024-04-01 
+[1, 1, '-1+1', '+1-1', 1, 1, -1, '-1+1', '+1-1', -1, -1, '-1+1', '+1-1', '+1-1', '-1+1', '-1+1', '-1+1', '+1-1', 1, 1, -1, 1]
+Sharpe Ratio: 0.14
+Pips On Profit Side was :  232.70000000000124
+Pips On Loss Side was :  164.80000000000047
+accuracy by days 50.0
+accuracy_by_net_gains  58.54088050314471
+net profit  67.90000000000077
+
+accuracy by net gains on previous test data  59.81935483870973
+accuracy on all test points excluding last 22 points  55.15151515151515
+MARCH
+NZDCHF  Starting date : 2024-02-29 
+['-1+1', '+1-1', -1, 1, '-1+1', 1, '+1-1', -1, 1, '-1+1', -1, 1, -1, '-1+1', 1, -1, 1, 1, 1, '+1-1', 1, '+1-1']
+Sharpe Ratio: 0.43
+Pips On Profit Side was :  302.0000000000023
+Pips On Loss Side was :  101.6000000000017
+accuracy by days 63.63636363636363
+accuracy_by_net_gains  74.82656095143689
+net profit  200.40000000000057
+
+accuracy by net gains on previous test data  57.57306037679874
+accuracy on all test points excluding last 22 points  53.84615384615385
+Iterations:  22
+Learning rate:  0.77
+Depth:  7
+FEB
+NZDCHF  Starting date : 2024-01-30 
+[-1, '-1+1', '+1-1', '-1+1', '-1+1', '-1+1', '+1-1', 1, -1, '-1+1', '-1+1', -1, '-1+1', 1, '-1+1', '+1-1', 1, 1, -1, '+1-1', -1, 1]
+Sharpe Ratio: 0.15
+Pips On Profit Side was :  257.3000000000003
+Pips On Loss Side was :  177.60000000000218
+accuracy by days 45.45454545454545
+accuracy_by_net_gains  59.16302598298433
+net profit  79.69999999999811
+
+accuracy by net gains on previous test data  57.26730046429375
+accuracy on all test points excluding last 22 points  55.371900826446286
+JAN
+NZDCHF  Starting date : 2023-12-28 
+[-1, -1, -1, -1, '-1+1', '+1-1', 1, -1, 1, 1, '+1-1', -1, '+1-1', 1, '-1+1', -1, 1, -1, 1, -1, 1, '-1+1']
+Sharpe Ratio: 0.84
+Pips On Profit Side was :  327.4999999999984
+Pips On Loss Side was :  42.299999999998455
+accuracy by days 72.72727272727273
+accuracy_by_net_gains  88.56138453217987
+net profit  285.19999999999993
+
+accuracy by net gains on previous test data  51.149759475604085
+accuracy on all test points excluding last 22 points  51.515151515151516
+DEC
+NZDCHF  Starting date : 2023-11-27 
+[1, '+1-1', '-1+1', 1, -1, -1, 1, '-1+1', -1, -1, '+1-1', 1, '-1+1', 1, '+1-1', '-1+1', '+1-1', 1, '-1+1', 1, '+1-1', 1]
+Sharpe Ratio: -0.06
+Pips On Profit Side was :  151.7000000000013
+Pips On Loss Side was :  176.79999999999922
+accuracy by days 54.54545454545454
+accuracy_by_net_gains  46.179604261796364
+net profit  -25.09999999999792
+
+accuracy by net gains on previous test data  52.194216990788235
+accuracy on all test points excluding last 22 points  50.649350649350644
+
+
+________________________________________________________________________________________________________________________________________________
+GBPCAD
+0:	learn: 77.0494879	total: 103ms	remaining: 1.23s
+12:	learn: 64.6117870	total: 921ms	remaining: 0us
+Mean Squared Error: 2986.066449305437
+saved successfully
+MAY
+GBPCAD  Starting date : 2024-05-01 
+[-1, '-1+1', '+1-1', '-1+1', -1, -1, '+1-1', 1, 1, 1, -1, 1, 1, '-1+1', '-1+1', '-1+1', -1, '-1+1', '-1+1', '-1+1', -1, -1]
+Sharpe Ratio: 0.30
+Pips On Profit Side was :  395.89999999999793
+Pips On Loss Side was :  178.2999999999979
+accuracy by days 54.54545454545454
+accuracy_by_net_gains  68.94810170672253
+net profit  217.60000000000002
+
+accuracy by net gains on previous test data  59.16812912622527
+accuracy on all test points excluding last 22 points  54.01069518716578
+APRIL
+GBPCAD  Starting date : 2024-04-01 
+['-1+1', '-1+1', 1, 1, '-1+1', '-1+1', '+1-1', '-1+1', -1, 1, '-1+1', -1, '+1-1', -1, '+1-1', 1, '-1+1', '-1+1', '+1-1', 1, 1, '-1+1']
+Sharpe Ratio: 0.04
+Pips On Profit Side was :  476.2000000000044
+Pips On Loss Side was :  425.8999999999968
+accuracy by days 40.909090909090914
+accuracy_by_net_gains  52.78793925285486
+net profit  50.30000000000763
+
+accuracy by net gains on previous test data  59.938187364534045
+accuracy on all test points excluding last 22 points  55.757575757575765
+MARCH
+GBPCAD  Starting date : 2024-02-29 
+['-1+1', '-1+1', '-1+1', -1, '-1+1', '-1+1', -1, -1, -1, 1, -1, -1, '-1+1', -1, -1, '-1+1', '-1+1', '+1-1', -1, -1, '+1-1', -1]
+Sharpe Ratio: 0.10
+Pips On Profit Side was :  468.299999999997
+Pips On Loss Side was :  358.89999999999753
+accuracy by days 54.54545454545454
+accuracy_by_net_gains  56.61266924564797
+net profit  109.39999999999947
+
+accuracy by net gains on previous test data  60.35203851361519
+accuracy on all test points excluding last 22 points  55.94405594405595
+Iterations:  13
+Learning rate:  0.25
+Depth:  8
+FEB
+GBPCAD  Starting date : 2024-01-30 
+[1, '-1+1', -1, -1, 1, '-1+1', -1, '-1+1', '+1-1', '-1+1', -1, -1, 1, '+1-1', '-1+1', -1, 1, 1, 1, '-1+1', '-1+1', -1]
+Sharpe Ratio: 0.17
+Pips On Profit Side was :  417.80000000000376
+Pips On Loss Side was :  273.300000000003
+accuracy by days 59.09090909090909
+accuracy_by_net_gains  60.45434814064531
+net profit  144.50000000000074
+
+accuracy by net gains on previous test data  60.34016689333269
+accuracy on all test points excluding last 22 points  55.371900826446286
+JAN
+GBPCAD  Starting date : 2023-12-28 
+['-1+1', '+1-1', 1, 1, 1, 1, 1, 1, 1, '-1+1', -1, -1, '-1+1', '-1+1', -1, '-1+1', -1, 1, -1, '+1-1', '+1-1', '+1-1']
+Sharpe Ratio: 0.26
+Pips On Profit Side was :  673.0000000000016
+Pips On Loss Side was :  357.89999999999986
+accuracy by days 59.09090909090909
+accuracy_by_net_gains  65.2827626345912
+net profit  315.1000000000017
+
+accuracy by net gains on previous test data  59.30558375634519
+accuracy on all test points excluding last 22 points  54.54545454545454
+DEC
+GBPCAD  Starting date : 2023-11-27 
+['-1+1', 1, -1, 1, -1, 1, -1, 1, -1, '+1-1', 1, '+1-1', 1, -1, '+1-1', 1, '+1-1', '+1-1', '+1-1', -1, 1, '+1-1']
+Sharpe Ratio: 0.50
+Pips On Profit Side was :  897.7000000000036
+Pips On Loss Side was :  258.8999999999997
+accuracy by days 63.63636363636363
+accuracy_by_net_gains  77.61542452014534
+net profit  638.8000000000038
+
+accuracy by net gains on previous test data  53.68591444644941
+accuracy on all test points excluding last 22 points  51.94805194805194
+
+________________________________________________________________________________________________________________________________________________
+CHFJPY
+0:	learn: 67.4399328	total: 84.3ms	remaining: 1.69s
+20:	learn: 25.1006476	total: 1.17s	remaining: 0us
+Mean Squared Error: 6899.181007197513
+saved successfully
+MAY
+CHFJPY  Starting date : 2024-05-01 
+['+1-1', '-1+1', 1, 1, '-1+1', '-1+1', 1, 1, 1, '+1-1', '+1-1', '+1-1', '-1+1', -1, -1, 1, '+1-1', 1, 1, 1, 1, 1]
+Sharpe Ratio: 0.20
+Pips On Profit Side was :  561.099999999999
+Pips On Loss Side was :  344.30000000000405
+accuracy by days 59.09090909090909
+accuracy_by_net_gains  61.972608791693965
+net profit  216.79999999999495
+
+accuracy by net gains on previous test data  61.420270569971166
+accuracy on all test points excluding last 22 points  55.61497326203209
+APRIL
+CHFJPY  Starting date : 2024-04-01 
+['+1-1', '-1+1', '+1-1', 1, '+1-1', '-1+1', -1, 1, -1, 1, '-1+1', 1, -1, 1, -1, '+1-1', '+1-1', 1, 1, -1, '+1-1', -1]
+Sharpe Ratio: 0.41
+Pips On Profit Side was :  1145.6999999999964
+Pips On Loss Side was :  306.89999999999884
+accuracy by days 59.09090909090909
+accuracy_by_net_gains  78.8723667905824
+net profit  838.7999999999976
+
+accuracy by net gains on previous test data  58.83868471165697
+accuracy on all test points excluding last 22 points  55.15151515151515
+MARCH
+CHFJPY  Starting date : 2024-02-29 
+['-1+1', 1, '+1-1', -1, -1, -1, '+1-1', 1, '+1-1', '+1-1', '-1+1', '+1-1', 1, '-1+1', '+1-1', '+1-1', -1, -1, -1, '-1+1', 1, '+1-1']
+Sharpe Ratio: 0.05
+Pips On Profit Side was :  661.099999999999
+Pips On Loss Side was :  583.2999999999998
+accuracy by days 45.45454545454545
+accuracy_by_net_gains  53.1260045001607
+net profit  77.79999999999916
+
+accuracy by net gains on previous test data  59.66765786251532
+accuracy on all test points excluding last 22 points  56.64335664335665
+Iterations:  21
+Learning rate:  0.75
+Depth:  8
+FEB
+CHFJPY  Starting date : 2024-01-30 
+['+1-1', '-1+1', '-1+1', -1, '+1-1', -1, 1, -1, -1, '+1-1', -1, '-1+1', '-1+1', '+1-1', -1, '-1+1', '-1+1', -1, 1, 1, '-1+1', -1]
+Sharpe Ratio: 0.06
+Pips On Profit Side was :  541.500000000002
+Pips On Loss Side was :  450.99999999999625
+accuracy by days 50.0
+accuracy_by_net_gains  54.559193954660245
+net profit  90.5000000000058
+
+accuracy by net gains on previous test data  60.33627851773704
+accuracy on all test points excluding last 22 points  57.85123966942148
+JAN
+CHFJPY  Starting date : 2023-12-28 
+[1, '+1-1', 1, '-1+1', -1, -1, '+1-1', '-1+1', '+1-1', '+1-1', 1, 1, 1, -1, '-1+1', -1, 1, '-1+1', -1, 1, '+1-1', '-1+1']
+Sharpe Ratio: 0.00
+Pips On Profit Side was :  647.1000000000032
+Pips On Loss Side was :  641.700000000003
+accuracy by days 54.54545454545454
+accuracy_by_net_gains  50.20949720670392
+net profit  5.400000000000205
+
+accuracy by net gains on previous test data  62.40983762829272
+accuracy on all test points excluding last 22 points  58.58585858585859
+DEC
+CHFJPY  Starting date : 2023-11-27 
+['+1-1', '-1+1', 1, '+1-1', -1, '+1-1', 1, -1, '+1-1', 1, '+1-1', -1, '+1-1', '+1-1', '-1+1', 1, -1, -1, 1, 1, '-1+1', -1]
+Sharpe Ratio: 0.32
+Pips On Profit Side was :  1434.3999999999996
+Pips On Loss Side was :  587.700000000001
+accuracy by days 54.54545454545454
+accuracy_by_net_gains  70.93615548192469
+net profit  846.6999999999987
+
+accuracy by net gains on previous test data  58.37410172982841
+accuracy on all test points excluding last 22 points  59.74025974025974
+
+
+________________________________________________________________________________________________________________________________________________
+
+AUDCAD
+0:	learn: 40.2654485	total: 110ms	remaining: 2.42s
+22:	learn: 28.5313411	total: 1.05s	remaining: 0us
+Mean Squared Error: 1085.158635532617
+saved successfully
+MAY
+AUDCAD  Starting date : 2024-05-01 
+[1, '-1+1', 1, '-1+1', -1, '-1+1', -1, 1, '-1+1', 1, -1, '-1+1', -1, '-1+1', -1, 1, -1, '-1+1', '-1+1', -1, 1, -1]
+Sharpe Ratio: 0.15
+Pips On Profit Side was :  245.90000000000225
+Pips On Loss Side was :  163.80000000000172
+accuracy by days 63.63636363636363
+accuracy_by_net_gains  60.01952648279225
+net profit  82.10000000000053
+
+accuracy by net gains on previous test data  59.859112529351535
+accuracy on all test points excluding last 22 points  60.962566844919785
+APRIL
+AUDCAD  Starting date : 2024-04-01 
+[1, '-1+1', '-1+1', '-1+1', '-1+1', 1, -1, 1, -1, -1, -1, '-1+1', '+1-1', -1, 1, '-1+1', '-1+1', -1, 1, '-1+1', -1, '-1+1']
+Sharpe Ratio: 0.11
+Pips On Profit Side was :  398.20000000000084
+Pips On Loss Side was :  306.8999999999989
+accuracy by days 54.54545454545454
+accuracy_by_net_gains  56.47425897035896
+net profit  91.30000000000194
+
+accuracy by net gains on previous test data  60.41705629324849
+accuracy on all test points excluding last 22 points  61.81818181818181
+MARCH
+AUDCAD  Starting date : 2024-02-29 
+[1, -1, -1, 1, 1, 1, '+1-1', -1, 1, '+1-1', '+1-1', '+1-1', '+1-1', '-1+1', 1, -1, '-1+1', -1, '+1-1', -1, '+1-1', -1]
+Sharpe Ratio: 0.22
+Pips On Profit Side was :  238.09999999999664
+Pips On Loss Side was :  139.19999999999933
+accuracy by days 59.09090909090909
+accuracy_by_net_gains  63.10628147362819
+net profit  98.8999999999973
+
+accuracy by net gains on previous test data  60.156911006845604
+accuracy on all test points excluding last 22 points  62.23776223776224
+Iterations:  23
+Learning rate:  0.25
+Depth:  8
+FEB
+AUDCAD  Starting date : 2024-01-30 
+[-1, -1, -1, 1, '-1+1', '+1-1', '+1-1', 1, '-1+1', '+1-1', 1, -1, 1, 1, '-1+1', '+1-1', '+1-1', 1, '+1-1', 1, -1, 1]
+Sharpe Ratio: 0.13
+Pips On Profit Side was :  278.1
+Pips On Loss Side was :  206.79999999999922
+accuracy by days 59.09090909090909
+accuracy_by_net_gains  57.352031346669506
+net profit  71.30000000000081
+
+accuracy by net gains on previous test data  60.55513263453762
+accuracy on all test points excluding last 22 points  62.8099173553719
+JAN
+AUDCAD  Starting date : 2023-12-28 
+[-1, -1, -1, -1, '-1+1', '-1+1', '+1-1', 1, -1, 1, -1, -1, -1, '-1+1', -1, '+1-1', '-1+1', 1, -1, -1, '-1+1', -1]
+Sharpe Ratio: 0.58
+Pips On Profit Side was :  333.500000000001
+Pips On Loss Side was :  78.70000000000154
+accuracy by days 68.18181818181817
+accuracy_by_net_gains  80.90732654051406
+net profit  254.7999999999995
+
+accuracy by net gains on previous test data  57.76172083111343
+accuracy on all test points excluding last 22 points  61.61616161616161
+DEC
+AUDCAD  Starting date : 2023-11-27 
+[1, -1, -1, '-1+1', -1, -1, -1, '-1+1', -1, -1, '+1-1', '-1+1', -1, -1, '-1+1', 1, -1, 1, -1, -1, 1, '+1-1']
+Sharpe Ratio: 0.24
+Pips On Profit Side was :  459.39999999999765
+Pips On Loss Side was :  257.1000000000001
+accuracy by days 72.72727272727273
+accuracy_by_net_gains  64.11723656664327
+net profit  202.29999999999757
+
+accuracy by net gains on previous test data  55.77032404775441
+accuracy on all test points excluding last 22 points  58.44155844155844
+
 
 
 ________________________________________________________________________________________________________________________________________________
